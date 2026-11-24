@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Purchase Order",
+  "description": "Aplikasi web manajemen Purchase Order (PO) multi-peran untuk Customer, Sales, dan Admin Sales dengan pembaruan real-time dan manajemen master data Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
